@@ -1,0 +1,402 @@
+[
+  {
+    "keys": "Espectro, Viajero, Luz, Resurrección, Compañero, Tecnología, Inteligencia, Consejo, Apoyo",
+    "value": "Los Espectros, pequeños constructos robóticos creados por el Viajero, son compañeros leales de los Guardianes. Poseen una gran inteligencia, la capacidad de manipular tecnología y la habilidad única de resucitar a los Guardianes de entre los muertos. Su luz ilumina la oscuridad y ofrecen consejo, apoyo y a veces incluso un toque de humor a sus compañeros. Sin embargo, su conexión con el Viajero los hace vulnerables a las fuerzas de la Oscuridad, y algunos Espectros han caído bajo su influencia.",
+    "type": "race",
+    "title": "Espectros ",
+    "description": "Los Espectros son esenciales para la existencia de los Guardianes. Su capacidad de resucitar es lo que los hace únicos. Sin embargo, no son invencibles y pueden ser dañados o incluso destruidos. Su personalidad varía de un Espectro a otro, lo que influye en su relación con su Guardián. La programación de Lumen les permite realizar diversas tareas, desde reparar equipo hasta acceder a información. La corrupción de un Espectro es un evento raro pero devastador, y representa una gran amenaza para su Guardián.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Astros",
+    "value": "Key Abilities: \n    * Manipulación de la Oscuridad: Astros puede canalizar la energía de la Oscuridad para diversos fines, como crear explosiones, generar escudos o manipular la materia.\n    * Conexión con la Lógica de la Espada: Comprende y utiliza la filosofía de la Colmena para fortalecerse a través de la conquista y la eliminación de sus enemigos.\n    * Habilidades de Cazador Corrompidas: Agilidad y letalidad aún mayores, pero con un toque siniestro.",
+    "type": "Link",
+    "title": "Astros (Key Abilities)",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eco de Nessus",
+    "value": "Reclamado por Maya Sundaresh.\nOtorga una profunda conexión con la Red Vex, permitiéndo manipular el tiempo y el espacio con un poder inmenso, aunque a un gran costo para su cordura.",
+    "type": "Objeto",
+    "title": "Eco de Nessus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eco del Arrecife",
+    "value": "Reclamado por Fikrul.\nCon este Eco, se obtiene la capacidad de revivir a los caídos como marionetas a su merced, creando un ejército de no-muertos a su servicio.",
+    "type": "Objeto",
+    "title": "Eco del Arrecife",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eco del Acorazado",
+    "value": "Reclamado por Astros.\nEste Eco da un poder base de manipulación de la Oscuridad y una conexión con la lógica de la espada, se amplifica con cada Eco que obtiene.",
+    "type": "Objeto",
+    "title": "Eco del Acorazado",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nox",
+    "value": "Name: Nox\nRace: Espectro\nMotivations: Ayudar a Astros a cumplir su destino y evitar que caiga en la locura.\nBackground Lore: Nox es un Espectro de la Estirpe Luminosa. Estuvo presente durante la resurrección de Astrosy vio en él un oscuro potencial, desde ahí se dedicó a seguirlo e instruirlo en las artes oscuras y la cultura de la Colmena.\nCurrent State: Nox sigue a Astros en su camino hacia la oscuridad. Su Luz evita que el Cazador pierda la cordura.",
+    "type": "character",
+    "title": "Nox",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Astros",
+    "value": "Name: Astros\nClass: Cazador (corrompido)\nStatus: Resucitado, Corrompido por la Oscuridad\nGhost: Nox (Guía)\nMotivations: Sed de poder absoluto, deseo de convertirse en el nuevo Rey de los Poseídos.\nBackground Lore: Astros fue un Guardián Cazador que cayó en batalla contra Oryx en una antigua Incursion. Pero un haz de Luz del Viajero lo revivió, aunque con una profunda corrupción. Ahora, guiado por Nox, busca los demas Ecos para concretar un ritual de la Colmena y absorber el alma del antigua Rey de los Poseidos.\nCurrent State: Astros viaja por el sistema solar en busca de los Ecos de Luz, enfrentando a los enemigos de la humanidad y a sus propios demonios internos.",
+    "type": "character",
+    "title": "Astros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Acorazado",
+    "value": "Name: Acorazado\nLocation: Cinturón de asteroides, Saturno\nBackground Lore: El Acorazado es una nave colosal de la Colmena, comandada por Oryx, el Rey de los Poseídos. Es un lugar de oscuridad y corrupción, donde los enemigos de la humanidad se reúnen para planear su próxima ofensiva. El Acorazado es un símbolo de la amenaza que representa la Colmena y su deseo de consumir la voluntad de los seres vivos.",
+    "type": "location",
+    "title": "El Acorazado",
+    "description": "Este lugar es inherentemente peligroso. Se rumorea que la presencia de Oryx aún se siente allí, y las facciones de la Colmena son hostiles. Se recomienda precaución extrema.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Europa",
+    "value": "Name: Europa\nLocation: Luna de Júpiter, Sistema Solar\nBackground Lore: Europa es una de las lunas más intrigantes de nuestro sistema solar. Cubierta por una gruesa capa de hielo, este mundo helado ha sido testigo de eventos trascendentales en la historia de la humanidad y las razas alienígenas. En Europa se encuentra Riis-Reborn, el antiguo hogar de la Casa de la Salvación; La colonia Eventide, fundada por Clovis Bray; y la cripta de la piedra profunda, una instalación donde Clovis llevó a cabo sus experimentos con la mente humana, la tecnología Exo, y la \"Claridad\".",
+    "type": "location",
+    "title": "Europa",
+    "description": "Europa es una de las lunas más intrigantes de nuestro sistema solar. Cubierta por una gruesa capa de hielo, este mundo helado ha sido testigo de eventos trascendentales en la historia de la humanidad y las razas alienígenas.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Fikrul",
+    "value": "Name: Fikrul\nRace: Eliksni\nClass: Barón Desdeñado\nStatus: Personaje persistente, asesinado y resucitado múltiples veces\nMotivations: Unificación de los Eliksni bajo su liderazgo, búsqueda de poder absoluto.\nBackground Lore: Ex-sacerdote Eliksni, resucitado como Barón Desdeñado tras ser asesinado por Cayde-6. Obsesionado por la venganza y el poder, ha liderado a los Desdeñado en numerosas incursiones.\nCurrent State: Líder de los Desdeñado, enemigo acérrimo del Guardián. Busca expandir su influencia y crear un nuevo imperio Eliksni.",
+    "type": "character",
+    "title": "Fikrul",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Maya Sundaresh",
+    "value": "Name: Maya Sundaresh\nRace: Exo\nClass: Científica\nStatus: Obsesionada con el Velo\nMotivations: Mejorar la humanidad, controlar el Velo, encontrar a Chioma Esi. \nBackground Lore: Ex-investigadora clave en el programa Exodus. Obsesionada con el Velo, creó Lakshmi-2 y busca una nueva era dorada.\nCurrent State: Dentro de la Red Vex, experimentando y evolucionando.",
+    "type": "character",
+    "title": "Maya Sundaresh",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Oryx",
+    "value": "Name: Oryx\nRace: Dios de la Colmena (anteriomente Krill)\nClass: Guerrero\nStatus: Rey de los Poseídos\nMotivations: Consumir la voluntad de los seres vivos, expandir su poder y conocimiento.\nBackground Lore: Antiguo Krill que se convirtió en el Rey de los Poseídos tras hacer un pacto con los Dioses Ciegos. Fue asesinado por los Guardianes, pero su esencia sigue viva en el Trono Vacío.\nCurrent State: Muerto (aunque su esencia sigue viva)",
+    "type": "character",
+    "title": "Oryx, Rey de los Poseídos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cuervo",
+    "value": "Name: Cuervo (anteriomente Uldren Sov)\nRace: Insomne (Guardián)\nClass: Cazador\nStatus: Vanguardia de los Cazadores\nGhost: Glint (Activo)\nMotivations: Encontrar a su hermana, vengar la muerte de Cayde-6, proteger a la Ciudad.\nBackground Lore: Cuervo es un Guardián Cazador que fue resucitado por Glint tras la muerte de Cayde-6. Busca a su hermana perdida y se ha unido a Osiris en la lucha contra la Oscuridad.\nCurrent State: Cuervo viaja por el sistema solar. Su lealtad a la Ciudad y su hermana lo guían en su camino.",
+    "type": "character",
+    "title": "Cuervo ",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ikora",
+    "value": "Name: Ikora Rey\nRace: Humano (Guardián)\nClass: Hechicera\nStatus: Vanguardia de los Hechiceros\nGhost: no se menciona\nMotivations: Proteger la Ciudad, guiar a los Guardianes, encontrar respuestas sobre el Viajero.\nBackground Lore: Ex-aprendiz de Osiris, Ikora Rey es una poderosa Hechicera que lidera a los Hechiceros en la Ciudad. Busca respuestas sobre el Viajero y la Oscuridad.\nCurrent State: Vanguardia de los Hechiceros, guía a los Guardianes en la lucha contra la Oscuridad.",
+    "type": "character",
+    "title": "Ikora Rey",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zavala",
+    "value": "Name: Zavala\nRace: Insomne (Guardián)\nClass: Titán\nStatus: Vanguardia de los Titanes\nGhost: Targe (Inactivo)\nMotivations: Proteger la Ciudad, mantener la paz, guiar a los Titanes.\nBackground Lore: Zavala es un veterano Titán que lidera a los Titanes en la Ciudad. Es un defensor de la paz y la justicia, y busca proteger a la humanidad de las amenazas externas.\nCurrent State: Sin Espectro, aprendiendo a usar la estasis.",
+    "type": "character",
+    "title": "Comandante Zavala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cazador",
+    "value": "Name: Cazador\nDescription: Los Cazadores son ágiles y astutos, expertos en el combate a distancia y el sigilo. Utilizan armas de precisión y habilidades de sigilo para acechar a sus enemigos y eliminarlos con rapidez. Los Cazadores son solitarios y reservados, prefiriendo la libertad y la independencia sobre la camaradería.",
+    "type": "class",
+    "title": "Cazador",
+    "description": "Los Cazadores son expertos en la infiltración y el combate a distancia, aunque también son letales en combate cuerpo a cuerpo si la situación lo requiere. Como Cazador, confías en tu agilidad y sigilo. Puedes elegir entre tres subclases: Pistolero, Acróbata, y Acechador Nocturno, cada una con un enfoque distinto en combate.. Tu poder se basa en la Destreza.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Hechicero",
+    "value": "Name: Hechicero\nDescription: Los Hechiceros son maestros de la energía arcana, capaces de manipular la Luz para lanzar poderosos hechizos y proteger a sus aliados. Utilizan sus habilidades mágicas para controlar el campo de batalla y apoyar a sus compañeros de equipo. Los Hechiceros son sabios y reflexivos, buscando siempre el conocimiento y la comprensión.",
+    "type": "class",
+    "title": "Hechicero",
+    "description": "Los Hechiceros son maestros en el uso de la Luz, combinando habilidades arcanas con el poder de su mente. Tu enfoque es el conocimiento y la manipulación de la energía. Como Hechicero, puedes elegir entre tres subclases: Erudito del Vacío, Cantor del Sol, y Conjuratormentas, cada una con un estilo de juego único.. Tu poder se basa en la Inteligencia.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Titán",
+    "value": "Name: Titán\nDescription: Los Titanes son guerreros fuertes y valientes, expertos en el combate cuerpo a cuerpo y la defensa. Utilizan armas pesadas y habilidades defensivas para proteger a sus aliados y enfrentarse a los enemigos más poderosos. Los Titanes son leales y valientes, dispuestos a sacrificarse por el bien de la humanidad.",
+    "type": "class",
+    "title": "Titán",
+    "description": "Los Titanes son los guerreros más robustos, con habilidades que les permiten proteger a sus aliados y liderar asaltos. Tu entrenamiento se enfoca en el combate directo, y tu armadura te convierte en un baluarte impenetrable. Como Titán, puedes elegir entre tres subclases principales: Aplastador, Defensor, y Quiebrasoles, cada una con un enfoque único en el combate y las habilidades de la Luz. Tu poder se basa en la Constitución.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Insomne",
+    "value": "Name: Insomnes\nDescription: Los Insomnes son descendientes de humanos que fueron transformados en un evento paracausal. Tienen una conexión con la Luz y la Oscuridad. Su piel es pálida, con tonos de azul, púrpura o gris, y sus ojos brillan con colores intensos.",
+    "type": "race",
+    "title": "Insomne",
+    "description": "Los Insomnes son conocidos por su conexión con lo paracausal y su naturaleza misteriosa. Debes elegir si eres un nacido del Arrecife, criado en el Arrecife y con la habilidad de moverte mejor en gravedad cero y conocer el lenguaje Eliksni, o un nacido en la Tierra, descendiente de Insomnes que regresaron a la Tierra, con habilidades atléticas y la proficiencia de un lenguaje humano adicional. Tu pasado está ligado a la Reina Mara Sov y a los secretos del Distributario.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Humano",
+    "value": "Name: Humanos\nDescription: Los humanos son la raza más común en el universo de Destiny. Han sobrevivido a la Caída y buscan reconstruir su civilización. Los humanos son adaptables y versátiles, capaces de enfrentar cualquier desafío. Son la principal población de Portadores de luz, valientes guardianes que luchan contra la oscuridad.",
+    "type": "race",
+    "title": "Humano",
+    "description": "Los humanos son conocidos por su capacidad de adaptación y resiliencia. Son la raza más diversa en el universo de Destiny y pueden provenir de diferentes culturas y orígenes. Como un Portadores de luz, tu pasado es un misterio, pero tus acciones definirán tu futuro.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Exo",
+    "value": "Name: Exo\nDescription: Los Exo son máquinas construidas con una conciencia humana transferida. Sus recuerdos están fragmentados por los reinicios de su mente.",
+    "type": "race",
+    "title": "Exo",
+    "description": "Los Exos son conocidos por su durabilidad y su pasado misterioso. La cantidad de reinicios de su mente está reflejado en el número al final de sus nombres. Como Exo, posees gran resistencia y no necesitas comer ni beber, aunque puedes hacerlo si lo deseas. También necesitas dormir, aunque solo por 4-6 horas. Los Exos tienen sueños que se sienten como fragmentos de memoria. Los Exos tienen visión en la oscuridad. ",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Krill",
+    "value": "Name: Krill \nDescription: Los Krill son una raza alienígena antigua que evolucionó en los seres conocidos como la Colmena. Algunos Krill, en circunstancias muy extrañas, pueden ser resucitados por Fantasmas como portadores de la Luz. Son conocidos por sus cuerpos insectoides y su conexión con la oscuridad.",
+    "type": "race",
+    "title": "Krill",
+    "description": "La raza ancestral de la que surgió la Colmena, en circunstancias muy raras un Krill puede ser resucitado como los guardiánes.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Vex",
+    "value": "Name: Vex\nDescription: Los Vex son una raza de máquinas constructos hechos de metal y radiolaria, un líquido lechoso y luminoso. Son conocidos por su capacidad de manipular el tiempo y el espacio, y su tecnología es a menudo un misterio para las otras razas.",
+    "type": "race",
+    "title": "Vex",
+    "description": "Una raza de máquinas con la habilidad de manipular el tiempo y el espacio. Su conversión a guardianes es extremadamente rara.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eliksni",
+    "value": "Name: Eliksni\nDescription: Los Eliksni, también conocidos como Caídos, son una raza alienígena nómada que ha sufrido la ira de la Oscuridad. Antiguamente, los Eliksni eran una raza noble y poderosa, pero su civilización fue devastada por la Colmena y los Vex. Ahora, los Eliksni buscan sobrevivir en un universo hostil, luchando contra sus enemigos y buscando un nuevo hogar.",
+    "type": "race",
+    "title": "Eliksni",
+    "description": "Una raza de alienígenas de cuatro brazos, previamente nómadas, ahora adaptados a la vida en el Sistema Solar. Algunos Eliksni han sido resucitados como guardianes.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nessus",
+    "value": "Name: Nessus\nLocation: Planetoide, Sistema Solar\nBackground Lore: Nessus es descrito como un centauro, un cuerpo celeste pequeño con forma irregular. Es el lugar donde se estrelló la nave colonial Exodus Black, la primera nave del programa Éxodo que se perdió al intentar establecer una colonia extrasolar para la humanidad. Tambien es un centro importante de actividad Vex. Los Vex han transformado partes de Nessus en un bosque, y han establecido estructuras y redes dentro de la roca.",
+    "type": "location",
+    "title": "Nessus",
+    "description": "Nessus es descrito como un centauro, un cuerpo celeste pequeño con forma irregular. Es el lugar donde se estrelló la nave colonial Exodus Black.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Arrecife",
+    "value": "Name: El Arrecife\nLocation: Cinturón de asteroides, entre las órbitas de Júpiter y Marte\nBackground Lore: el Arrecife es un reino complejo y misterioso, hogar de los Despertados, gobernado por la reina Mara Sov, y con una fuerte conexión con el plano ascendente y los Ahamkara. El Arrecife ha jugado un papel importante en la historia, y sigue siendo un lugar de conflicto y misterio.",
+    "type": "location",
+    "title": "El Arrecife",
+    "description": "El Arrecife es un reino complejo y misterioso, hogar de los Despertados, gobernado por la reina Mara Sov, y con una fuerte conexión con el plano ascendente y los Ahamkara. El Arrecife ha jugado un papel importante en la historia, y sigue siendo un lugar de conflicto y misterio.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Última Ciudad",
+    "value": "Name: La Ultima Ciudad\nLocation: Tierra, Sudamérica\nBackground Lore: La Última Ciudad es el último bastión de la humanidad en la Tierra, protegido por el Viajero y los Guardianes. Es un lugar de refugio y esperanza, donde los sobrevivientes de la Edad Oscura se han reunido para reconstruir la civilización y resistir a las fuerzas de la Oscuridad.",
+    "type": "location",
+    "title": "La Última Ciudad",
+    "description": "La Última Ciudad es el último bastión de la humanidad en la Tierra, protegido por el Viajero y los Guardianes. Es un lugar de refugio y esperanza, donde los sobrevivientes de la Edad Oscura se han reunido para reconstruir la civilización y resistir a las fuerzas de la Oscuridad.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Torre",
+    "value": "Name: La Torre\nLocation: La Última Ciudad, Tierra\nBackground Lore: La Torre es la sede de los Guardianes en la Última Ciudad, ubicacion de los líderes de la Vanguardia, Zavala, Ikora y Cuervo. Es un lugar de entrenamiento, planificación y descanso para los Guardianes, y un símbolo de la resistencia de la humanidad contra la Oscuridad.",
+    "type": "location",
+    "title": "La Torre",
+    "description": "La Torre es la sede de los Guardianes en la Última Ciudad, ubicacion de los líderes de la Vanguardia, Zavala, Ikora y Cuervo. Es un lugar de entrenamiento, planificación y descanso para los Guardianes, y un símbolo de la resistencia de la humanidad contra la Oscuridad.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Cosmódromo",
+    "value": "Name: Cosmodromo\nLocation: Tierra, Rusia\nBackground Lore: El Cosmodromo es una base de lanzamiento espacial en Rusia, que ha sido utilizada por la humanidad para lanzar naves y satélites al espacio. Es un lugar icónico en la historia de la exploración espacial, y ha sido testigo de eventos trascendentales en la historia de la humanidad y la lucha contra la Oscuridad.",
+    "type": "location",
+    "title": "El Cosmódromo",
+    "description": "El Cosmodromo es una base de lanzamiento espacial en Rusia, que ha sido utilizada por la humanidad para lanzar naves y satélites al espacio. Es un lugar icónico en la historia de la exploración espacial, y ha sido testigo de eventos trascendentales en la historia de la humanidad y la lucha contra la Oscuridad.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Caídos",
+    "value": "Name: Caídos\nRace: Eliksni\nDescription: los Caídos son una facción compleja y diversa, con una historia rica y trágica. Su lucha por la supervivencia y la recuperación de su antigua gloria los ha llevado a un conflicto con la humanidad y otras facciones en el sistema solar. Sin embargo, también han demostrado capacidad de adaptación y cambio, con algunas facciones buscando nuevos caminos hacia la coexistencia pacífica.",
+    "type": "faction",
+    "title": "Caídos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Colmena",
+    "value": "Name: Colmena\nRace: Krill",
+    "type": "faction",
+    "title": "Colmena",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Vex",
+    "value": "Name: Vex\nRace: Vex",
+    "type": "faction",
+    "title": "Vex",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Desdeñados",
+    "value": "Name: Desdeñados\nRace: Eliksni Resucitados\nDescription:  los Desdeñados son una facción única y peligrosa de Eliksni que han sido transformados por el poder del Éter Oscuro y liderados por Fikrul, el Fanático. Su origen es trágico y su naturaleza los ha convertido en una amenaza para todos en el sistema solar, lo que los hace una amenaza muy diferente a los Caídos comunes.",
+    "type": "faction",
+    "title": "Desdeñados",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Poseídos",
+    "value": "Name: Poseídos\nDescription: La facción de los Poseídos no pertenece a una raza específica, sino que es una fuerza compuesta por seres de diversas razas que han sido corrompidos y transformados por el poder de la Oscuridad. Los Poseídos son, en esencia, una versión distorsionada de las entidades que alguna vez fueron.",
+    "type": "faction",
+    "title": "Poseídos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Caballero",
+    "value": "Name: Caballero\nRace: Krill\nFaction: Colmena\nClassification: Elite\nDescription: Los Caballeros son guerreros de la Colmena, poderosos y resistentes. Son los líderes de las hordas de la Colmena y representan una amenaza formidable para los Guardianes. Los Caballeros son conocidos por su armadura pesada y su habilidad en el combate cuerpo a cuerpo.",
+    "type": "Creature",
+    "title": "Caballero",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Maga",
+    "value": "Name: Maga\nRace: Krill\nFaction: Colmena\nClassification: Elite\nDescription: Las Magas son hechiceras de la Colmena, capaces de lanzar poderosos hechizos y manipular la energía oscura. Son peligrosas en combate a distancia y pueden invocar criaturas de la Oscuridad para luchar a su lado. Las Magas son astutas y traicioneras, y representan una amenaza seria para los Guardianes.",
+    "type": "Creature",
+    "title": "Maga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lacayo",
+    "value": "Name: Lacayo\nRace: Krill\nFaction: Colmena\nClassification: Minion\nDescription: Los Lacayos son soldados rasos de la Colmena, débiles y numerosos. Son los guerreros más comunes de la Colmena y suelen atacar en grandes grupos para abrumar a sus enemigos. Los Lacayos son fáciles de derrotar individualmente, pero pueden ser peligrosos en grandes cantidades.",
+    "type": "Creature",
+    "title": "Lacayo",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Goblin",
+    "value": "Name: Goblin\nRace: Vex\nFaction: Vex\nClassification: Minion\nDescription: Los Goblins son unidades básicas de los Vex, construidas para la guerra y la exploración. Son máquinas de combate versátiles, capaces de adaptarse a diferentes situaciones y responder con rapidez a las amenazas. Los Goblins son conocidos por su resistencia y su capacidad para regenerarse en combate.",
+    "type": "Creature",
+    "title": "Goblin",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hobgoblin",
+    "value": "Name: Hobgoblin\nRace: Vex\nFaction: Vex\nClassification: Minion\nDescription: Los Hobgoblins son unidades de élite de los Vex, diseñadas para el combate a larga distancia y la defensa de posiciones estratégicas. Son expertos tiradores y pueden lanzar ataques devastadores desde la distancia. Los Hobgoblins son peligrosos en combate a larga distancia y deben ser abordados con cautela.",
+    "type": "Creature",
+    "title": "Hobgoblin",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Minotauro",
+    "value": "Name: Minotauro\nRace: Vex\nFaction: Vex\nClassification: Elite\nDescription: Los Minotauros son unidades pesadas de los Vex, diseñadas para el combate cuerpo a cuerpo y la defensa de objetivos importantes. Son poderosos y resistentes, capaces de absorber grandes cantidades de daño y seguir luchando. Los Minotauros son una amenaza seria en combate cercano y deben ser abordados con precaución.",
+    "type": "Creature",
+    "title": "Minotauro",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Arconte",
+    "value": "Name: Arconte\nRace: Eliksni\nFaction: Caídos\nClassification: Major\nDescription: Los Arcontes son líderes de los Caídos, poderosos y carismáticos. Son capaces de unir a las facciones Caídas y liderarlas en la batalla. Los Arcontes son resistentes y astutos, capaces de adaptarse a diferentes situaciones y responder con rapidez a las amenazas. Son una amenaza seria para los Guardianes y deben ser abordados con cautela.\n",
+    "type": "Creature",
+    "title": "Arconte",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Capitán",
+    "value": "Name: Capitán\nRace: Eliksni\nFaction: Caídos\nClassification: Elite\nDescription: Los Capitanes son guerreros de élite de los Caídos, poderosos y resistentes. Son los líderes de las hordas Caídas y representan una amenaza formidable para los Guardianes. Los Capitanes son conocidos por su armadura pesada y su habilidad en el combate cuerpo a cuerpo.",
+    "type": "Creature",
+    "title": "Capitán",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Barón",
+    "value": "Name: Barón\nRace: Eliksni\nFaction: Desdeñados\nClassification: Ultra\nDescription: Los Barones son líderes de los Desdeñados, poderosos y carismáticos. Son capaces de unir a las facciones Desdeñadas y liderarlas en la batalla. Los Barones son resistentes y astutos, capaces de adaptarse a diferentes situaciones y responder con rapidez a las amenazas. Son una amenaza seria para los Guardianes y deben ser abordados con cautela.",
+    "type": "Creature",
+    "title": "Barón",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fanático",
+    "value": "Name: Fanático\nRace: Eliksni\nFaction: Desdeñados\nClassification: Major\nDescription: Los Fanáticos son guerreros de élite de los Desdeñados, poderosos y resistentes. Son los líderes de las hordas Desdeñadas y representan una amenaza formidable para los Guardianes. Los Fanáticos son conocidos por su armadura pesada y su habilidad en el combate cuerpo a cuerpo.",
+    "type": "Creature",
+    "title": "Fanático",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Abominación",
+    "value": "Name: Abominación\nRace: Multiple\nFaction: Desdeñados\nClassification: Major\nDescription: Las Abominaciones son criaturas grotescas y poderosas creadas por los Desdeñados. Son seres de pesadilla, con habilidades sobrenaturales y una sed insaciable de sangre y de destrucción. Las Abominaciones son una amenaza seria para los Guardianes y deben ser abordadas con extrema precaución.",
+    "type": "Creature",
+    "title": "Abominación",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Caballero poseído",
+    "value": "Name: Caballero poseído\nRace: Multiple\nFaction: Poseídos\nClassification: Elite\nDescription: Los Caballeros poseídos son guerreros de élite de los Poseídos, poderosos y resistentes. Son los líderes de las hordas Poseídas y representan una amenaza formidable para los Guardianes. Los Caballeros poseídos son conocidos por su armadura pesada y su habilidad en el combate cuerpo a cuerpo.",
+    "type": "Creature",
+    "title": "Caballero poseído",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Maga poseída",
+    "value": "Name: Maga poseída\nRace: Multiple\nFaction: Poseídos\nClassification: Elite\nDescription: Las Magas poseídas son hechiceras de élite de los Poseídos, capaces de lanzar poderosos hechizos y manipular la energía oscura. Son peligrosas en combate a distancia y pueden invocar criaturas de la Oscuridad para luchar a su lado. Las Magas poseídas son astutas y traicioneras, y representan una amenaza seria para los Guardianes.",
+    "type": "Creature",
+    "title": "Maga poseída",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lacayo poseído",
+    "value": "Name: Lacayo poseído\nRace: Multiple\nFaction: Poseídos\nClassification: Minion\nDescription: Los Lacayos poseídos son soldados rasos de los Poseídos, débiles y numerosos. Son los guerreros más comunes de los Poseídos y suelen atacar en grandes grupos para abrumar a sus enemigos. Los Lacayos poseídos son fáciles de derrotar individualmente, pero pueden ser peligrosos en grandes cantidades.",
+    "type": "Creature",
+    "title": "Lacayo poseído",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Acechador poseído",
+    "value": "Name: Acechador poseído\nRace: Múltiple\nFaction: Poseídos\nClassification: Elite\nDescription: Los Acechadores poseídos son unidades de élite de los Poseídos, diseñadas para el combate a larga distancia y la defensa de posiciones estratégicas. Son expertos tiradores y pueden lanzar ataques devastadores desde la distancia. Los Acechadores poseídos son peligrosos en combate a larga distancia y deben ser abordados con cautela.",
+    "type": "Creature",
+    "title": "Acechador poseído",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Abominación poseída",
+    "value": "Name: Abominación poseída\nRace: Múltiple\nFaction: Poseídos\nClassification: Major\nDescription: Las Abominaciones poseídas son criaaturas grotescas y poderosas creadas por los Poseídos. Son seres de pesadilla, con habilidades sobrenaturales y una sed insaciable de sangre y de destrucción. Las Abominaciones poseídas son una amenaza seria para los Guardianes y deben ser abordadas con extrema precaución.",
+    "type": "Creature",
+    "title": "Abominación poseída",
+    "description": "",
+    "useForCharacterCreation": false
+  }
+]
