@@ -1,0 +1,353 @@
+[
+  {
+    "keys": "Astros, Ritual, Acorazado, Nox",
+    "value": "Un antiguo Guardián resucitado en el Acorazado por un Eco de Luz. Corrompido por la influencia de Nox, un Espectro de la Oscuridad, Astros busca absorber el alma residual de Oryx y reclamar el trono del Rey de los Poseídos mediante un ritual de la Colmena. Es frío, calculador y ambicioso, dispuesto a sacrificar lo que sea necesario para alcanzar su objetivo. Su armadura, antes brillante, ahora está cubierta de runas de la Colmena y emana una energía oscura.",
+    "type": "character",
+    "title": "Astros",
+    "description": "El Guardián caído que busca el poder de Oryx.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nox, Espectro, Oscuridad, Astros",
+    "value": "Nox es un Espectro de la Oscuridad, perteneciente a la Estirpe Luminosa. A diferencia de los Espectros de la Luz, Nox se alimenta de la Oscuridad y busca expandir su influencia. Es astuto, manipulador y paciente, y ve en Astros una herramienta perfecta para lograr sus objetivos. Nox convenció a Astros de que la absorción del alma de Oryx es el camino hacia un poder mayor, prometiéndole un lugar en la nueva era que surgirá de la Oscuridad. A pesar de su lealtad a la Oscuridad, Nox tiene una agenda propia, y sus verdaderas intenciones permanecen ocultas. Su forma es similar a la de un Espectro de la Luz, pero con un brillo oscuro y pulsante.",
+    "type": "character",
+    "title": "Nox",
+    "description": "Un Espectro de la Oscuridad que guía a Astros.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eris Morn, Bruja",
+    "value": "Eris Morn, una Guardiana experta en la Colmena y la Oscuridad, ha desaparecido misteriosamente. Su conocimiento sobre estos temas la convierte en un objetivo crucial para Astros en su ritual. Se teme que haya sido capturada y llevada al Acorazado para ser sacrificada. Eris es una superviviente, marcada por sus experiencias en la Boca del Infierno, y posee un profundo entendimiento de los peligros que acechan en la Oscuridad.",
+    "type": "character",
+    "title": "Eris Morn",
+    "description": "Guardiana experta en la Colmena, ahora cautiva en el Acorazado.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ikora Rey, Vanguardia, Hechiceros, Encubiertos",
+    "value": "Ikora Rey, líder de los Hechiceros en la Vanguardia, está profundamente preocupada por la actividad en Nessus y la posible manipulación de la Red Vex. Confía en su red de Encubiertos para obtener información y está decidida a proteger la Luz de cualquier amenaza. Su sabiduría y su poder son cruciales para la lucha contra la Oscuridad.",
+    "type": "character",
+    "title": "Ikora Rey",
+    "description": "Líder de los Hechiceros, preocupada por la amenaza en Nessus.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Osiris,",
+    "value": "Osiris, un legendario Hechicero y antiguo miembro de la Vanguardia, posee un vasto conocimiento sobre el tiempo, el espacio y la Red Vex. Su perspicacia y su comprensión de los misterios del universo son invaluables para la investigación de los Ecos y la amenaza que representan.",
+    "type": "character",
+    "title": "Osiris",
+    "description": "Legendario Hechicero con conocimiento sobre la Red Vex.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cuervo, Vanguardia, Cazadores",
+    "value": "Cuervo, el representante de los Cazadores en la Vanguardia, mantiene una estrecha relación con los Caídos, especialmente con la Casa de la Luz. Su deseo de proteger a los Eliksni lo lleva a buscar soluciones pacíficas, pero su confianza puede ser aprovechada por aquellos que buscan manipularlo. Su conocimiento sobre la cultura y las costumbres de los Eliksni es invaluable.",
+    "type": "character",
+    "title": "Cuervo",
+    "description": "Representante de los Cazadores, aliado de los Eliksni.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Mithrax, Kell, Eliksni, Casa de la Luz, Lealtad",
+    "value": "Mithrax, Kell de la Casa de la Luz, lidera a los Eliksni que buscan la redención y la alianza con la Luz. Su lealtad a su pueblo y su sabiduría lo convierten en un aliado valioso, pero la amenaza de Fikrul y la manipulación de Cuervo ponen a prueba su liderazgo y la seguridad de su Casa.",
+    "type": "character",
+    "title": "Mithrax",
+    "description": "Kell de la Casa de la Luz.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zavala, Vanguardia, Titanes",
+    "value": "Zavala, el estoico líder de los Titanes y de la Vanguardia, se encuentra lidiando con la reciente pérdida de su Espectro. Esta pérdida lo ha afectado profundamente, generando dudas sobre su liderazgo y su capacidad para proteger la Última Ciudad. A pesar de su dolor, Zavala sigue comprometido con el deber y la seguridad de la humanidad, aunque se muestra reacio a involucrarse en conflictos que considera innecesarios o demasiado riesgosos. Su armadura, aunque impecable, muestra signos de desgaste, reflejando su estado emocional.",
+    "type": "character",
+    "title": "Zavala",
+    "description": "El líder de los Titanes, lidiando con la pérdida de su Espectro.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fikrul, Fanático, Scorn, Arrecife",
+    "value": "Fikrul, el Fanático, un Caído resucitado como Scorn, lidera una horda de estas criaturas en el Arrecife. Su mente está retorcida por la Oscuridad, y su único objetivo es sembrar el caos y la destrucción. Posee un poder único para corromper a otros Eliksni, transformándolos en Scorn y expandiendo su ejército. Su apariencia es grotesca y aterradora, con partes de su cuerpo reconstruidas con metal y hueso de Scorn.",
+    "type": "character",
+    "title": "Fikrul, el Fanático",
+    "description": "El líder Scorn que corrompe Eliksni.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Maya Sundaresh, Vex, Nessus",
+    "value": "Maya Sundaresh, una científica de la Edad de Oro desaparecida en la Red Vex, ha regresado con un nuevo propósito. Obsesionada con el control del Velo y la manipulación de la realidad a través de las simulaciones Vex, busca guiar una nueva evolución para la humanidad. Su tiempo en la Red Vex la ha transformado, dándole un profundo entendimiento de su funcionamiento y un acceso a conocimientos prohibidos. Su presencia en Nessus genera gran inquietud en la Vanguardia.",
+    "type": "character",
+    "title": "Maya Sundaresh",
+    "description": "Científica de la Edad de Oro obsesionada con el Velo.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Oryx, Rey de los Poseídos, Colmena, Acorazado",
+    "value": "Oryx, el Rey de los Poseídos, aunque derrotado, dejó una profunda huella en el sistema solar. Su Acorazado sigue siendo un lugar de poder oscuro, y fragmentos de su alma aún persisten, buscando una forma de regresar. Su conocimiento sobre la Colmena y sus rituales es inmenso, y Astros busca aprovechar este legado para reclamar su trono. La mera mención de su nombre evoca temor en aquellos que conocen su historia.",
+    "type": "character",
+    "title": "Oryx, Rey de los Poseídos",
+    "description": "El antiguo Rey de los Poseídos, cuyo legado atormenta al sistema.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nessus, Vex, Simulaciones, Maya",
+    "value": "Nessus, un pequeño planeta convertido en un complejo mecánico por los Vex, es un lugar extraño y laberíntico. Su superficie está cubierta de estructuras metálicas interconectadas, valles verdes y lagos de fluido blanco. La presencia de la Red Vex se siente con fuerza aquí, con constantes distorsiones espaciotemporales y simulaciones que se superponen a la realidad. El Eco de Nessus ha intensificado estas anomalías, creando portales dimensionales y visiones fragmentadas. La presencia de Maya Sundaresh se percibe en las estructuras Vex más profundas, donde se rumorea que realiza experimentos con el Velo.",
+    "type": "location",
+    "title": "Nessus",
+    "description": "Un planeta convertido en un complejo Vex, afectado por el Eco.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Arrecife, Caídos, Eliksni, Scorn, Piratas, Asteroides, Fikrul",
+    "value": "El Arrecife, un cinturón de asteroides destrozados y restos de naves, es un refugio para piratas Caídos y otras facciones marginales. La atmósfera es caótica y peligrosa, con constantes tormentas solares y la amenaza de emboscadas. Desde el resurgimiento de Fikrul, la presencia de los Scorn se ha intensificado, sembrando el terror entre los habitantes del Arrecife. El Eco del Arrecife ha exacerbado la inestabilidad en la región, amplificando las emociones negativas y la corrupción. La Casa de la Luz, liderada por Mithrax, lucha por mantener el orden en medio del caos.",
+    "type": "location",
+    "title": "El Arrecife",
+    "description": "Un cinturón de asteroides caótico, ahora bajo la amenaza de Fikrul.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Torre, Vanguardia, Guardianes, Última Ciudad",
+    "value": "La Torre, el centro de operaciones de la Vanguardia y un refugio para los Guardianes, se alza sobre la Última Ciudad. Desde aquí, la Vanguardia coordina las defensas del sistema y envía a los Guardianes a misiones. La Torre ofrece una vista panorámica de la ciudad y el campo de batalla circundante. Tras la desaparición de Eris, la atmósfera en la Torre es tensa y preocupante. Se han reforzado las medidas de seguridad, y la Vanguardia trabaja incansablemente para encontrarla y lidiar con las crecientes amenazas. Es desde la Torre desde donde se coordina la transmisión que alerta a los guardianes sobre los sucesos.",
+    "type": "location",
+    "title": "La Torre",
+    "description": "El centro de operaciones de la Vanguardia.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Muros de la Última Ciudad, Última Ciudad, Zavala",
+    "value": "Los Muros de la Última Ciudad, la última línea de defensa entre la humanidad y la Oscuridad, han sido objeto de un aumento en los ataques organizados de la Colmena. Las defensas de la ciudad están en alerta máxima, con patrullas constantes y fortificaciones reforzadas. La presencia de Poseídos entre las filas de la Colmena sugiere una mayor coordinación y un nuevo nivel de amenaza. Los ataques se centran en puntos estratégicos de los muros, como si la Colmena tuviera información precisa sobre las defensas de la ciudad. La ausencia de Zavala, si ha muerto, se siente con fuerza entre los defensores.",
+    "type": "location",
+    "title": "Muros de la Última Ciudad",
+    "description": "La última línea de defensa de la humanidad, bajo ataque de la Colmena.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eco, Nessus, Vex, Maya",
+    "value": "El Eco de Nessus irradia una energía inestable que distorsiona el flujo del tiempo y el espacio a su alrededor. Se manifiesta como una serie de pulsaciones lumínicas que reverberan a través de las estructuras Vex, creando anomalías temporales y portales dimensionales. Aquellos expuestos a su influencia experimentan visiones fragmentadas del pasado, presente y futuro, a menudo confundiéndolos y desorientándolos. Se rumorea que este Eco contiene fragmentos de conocimiento de la Edad de Oro relacionados con la manipulación del tiempo y las simulaciones Vex, lo que atrajo el interés de Maya Sundaresh.",
+    "type": "object",
+    "title": "Eco de Nessus",
+    "description": "Un fragmento de energía que distorsiona el tiempo y el espacio.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eco, Arrecife, Scorn, Fikrul",
+    "value": "El Eco del Arrecife emana una energía oscura y corruptora que amplifica las emociones negativas como el odio, la desesperación y la ira. Se manifiesta como una neblina rojiza que se extiende por la región, afectando a las criaturas vivientes y distorsionando su percepción de la realidad. Aquellos expuestos a su influencia se vuelven más agresivos, impulsivos y susceptibles a la manipulación. Se dice que este Eco está estrechamente ligado a la Oscuridad y a la energía de los Scorn, lo que explica el interés de Fikrul en controlarlo.",
+    "type": "object",
+    "title": "Eco del Arrecife",
+    "description": "Un fragmento de energía que amplifica las emociones negativas y la corrupción.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eco, Acorazado, Astros",
+    "value": "El Eco del Acorazado resuena con el poder residual de Oryx, el Rey de los Poseídos. Se manifiesta como una energía oscura y palpable que impregna la nave, conectándola con el plano existencial de la Colmena. Se dice que contiene fragmentos del alma de Oryx y conocimiento sobre sus rituales de posesión. Aquellos que entran en contacto con este Eco experimentan visiones del pasado de Oryx y sienten la tentación de su inmenso poder. Astros busca utilizar este Eco en su ritual para reclamar el trono de Oryx.",
+    "type": "object",
+    "title": "Eco del Acorazado",
+    "description": "Un fragmento de energía que contiene el poder residual de Oryx.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cazador",
+    "value": "Los Cazadores son maestros del sigilo, la agilidad y la precisión. Prefieren operar desde las sombras, utilizando sus habilidades para flanquear a sus enemigos y asestar golpes letales. Son expertos en el uso de armas de largo alcance y tácticas de guerrilla. Suelen ser solitarios e independientes, aunque también pueden formar equipos efectivos. Cuervo, como representante de los Cazadores en la Vanguardia, encarna muchas de estas características. Astros, antes de su caída, también era un Cazador, lo que le otorga un profundo conocimiento de sus tácticas y habilidades.",
+    "type": "class",
+    "title": "Cazador",
+    "description": "Maestros del sigilo, la agilidad y la precisión.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Hechicero",
+    "value": "Los Hechiceros son canalizadores de la Luz, capaces de manipularla para desatar poderosos ataques mágicos y conjurar efectos devastadores. Valoran el conocimiento y la sabiduría por encima de todo, buscando comprender los misterios del universo y dominar los secretos de la Luz. Son estrategas hábiles y poseen un profundo entendimiento de la naturaleza del Velo. Ikora Rey y Osiris son ejemplos destacados de Hechiceros, cada uno con un enfoque único en el uso de la Luz.",
+    "type": "class",
+    "title": "Hechicero",
+    "description": "Canalizadores de la Luz, eruditos de la magia.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Titán",
+    "value": "Los Titanes son protectores estoicos, conocidos por su fuerza bruta, su resistencia inquebrantable y su dedicación al deber. Se especializan en el combate cuerpo a cuerpo y en la defensa, utilizando su armadura pesada y sus habilidades para proteger a sus aliados y mantener la línea frente a la Oscuridad. Valoran la disciplina, el honor y el sacrificio. Zavala, el líder de los Titanes y de la Vanguardia, personifica los ideales de su clase. Los Muros de la Última Ciudad son un símbolo del compromiso de los Titanes con la protección de la humanidad.",
+    "type": "class",
+    "title": "Titán",
+    "description": "Protectores estoicos, maestros del combate cuerpo a cuerpo y la defensa.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Humano",
+    "value": "Los Humanos son la raza más común en la Última Ciudad y la Vanguardia. Tras el Colapso, lucharon por sobrevivir y reconstruir su civilización. Son conocidos por su adaptabilidad, su resiliencia y su espíritu indomable. La Torre, como centro de la Vanguardia, es un símbolo de la esperanza y la perseverancia humana. Muchos de los líderes de la Vanguardia, como Zavala e Ikora, son Humanos.",
+    "type": "race",
+    "title": "Humano",
+    "description": "La raza más común, conocida por su adaptabilidad y resiliencia.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Awoken",
+    "value": "Los Awoken son una raza misteriosa con una conexión única con la Luz y la Oscuridad. Nacidos en la Distributaria, un espacio entre dimensiones, poseen una afinidad natural por la magia y un profundo entendimiento del equilibrio entre fuerzas opuestas. El Arrecife es su hogar, y su Reina, Mara Sov, es una figura enigmática con un papel crucial en los eventos del sistema solar. Suelen ser reservados y perspicaces.",
+    "type": "race",
+    "title": "Awoken",
+    "description": "Una raza misteriosa con conexión con la Luz y la Oscuridad.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Exo",
+    "value": "Los Exos son máquinas con conciencia humana transferida a cuerpos robóticos. Su origen es un misterio, y muchos Exos sufren de amnesia parcial, luchando por recordar su vida anterior. Son conocidos por su resistencia, su precisión y su adaptabilidad a diferentes entornos. Algunos Exos fueron creados para la guerra, lo que les otorga una gran habilidad en combate. La búsqueda de su pasado es una parte importante de la identidad de muchos Exos.",
+    "type": "race",
+    "title": "Exo",
+    "description": "Máquinas con conciencia humana, buscando su pasado.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Eliksni",
+    "value": "Los Eliksni, antiguamente conocidos como Caídos, son una raza alienígena que una vez prosperó bajo la bendición del Viajero. Tras el Colapso, fueron despojados de su conexión con la Luz y se vieron obligados a vagar por el sistema en busca de supervivencia. Algunas facciones, como la Casa de la Luz liderada por Mithrax, buscan una nueva alianza con la Luz y la redención. Otros, como Fikrul y los Scorn, han sucumbido a la Oscuridad y representan una amenaza para el sistema. Su cultura está marcada por la pérdida y la búsqueda de un nuevo propósito.",
+    "type": "race",
+    "title": "Eliksni",
+    "description": "Una raza alienígena en busca de redención o presa de la Oscuridad.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Vex",
+    "value": "Los Vex son una raza de máquinas con una conexión única con el tiempo y el espacio. Habitan en la Red Vex, una vasta red computacional que abarca múltiples dimensiones y líneas temporales. Sus construcciones son complejas y a menudo desafían la lógica humana, con estructuras que se transforman y se mueven de manera impredecible. Su objetivo principal parece ser la conversión del universo en una vasta simulación bajo su control. Su presencia en Nessus es particularmente fuerte, y se rumorea que Maya Sundaresh busca aprovechar su tecnología para sus propios fines.",
+    "type": "faction",
+    "title": "Vex",
+    "description": "Máquinas que manipulan el tiempo y el espacio, presentes en Nessus.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Caídos",
+    "value": "Los Caídos, también conocidos como Eliksni, son una raza alienígena que una vez prosperó bajo la bendición del Viajero. Tras el Colapso, fueron despojados de su conexión con la Luz y se fragmentaron en diversas Casas, cada una con sus propias ambiciones y líderes. Buscan recuperar su antigua gloria y el Éter, una sustancia que les proporciona sustento. Algunas Casas, como la Casa de la Luz liderada por Mithrax, buscan la redención y una alianza con la Luz. Otras, como los seguidores de Fikrul en el Arrecife, han sucumbido a la Oscuridad y se han convertido en una amenaza.",
+    "type": "faction",
+    "title": "Caídos/Eliksni",
+    "description": "Una raza alienígena dividida entre la búsqueda de redención y la Oscuridad.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Colmena",
+    "value": "La Colmena es una raza guerrera impulsada por la Oscuridad y ligada a los Gusanos Divinos, parásitos que les otorgan poder a cambio de un constante tributo de matanza. Su sociedad está organizada en una estricta jerarquía basada en el poder y la brutalidad. Oryx, el Rey de los Poseídos, fue su líder más poderoso, y su legado continúa atormentando al sistema. El Acorazado, su antigua nave-mundo, sigue siendo un lugar de poder oscuro. Astros busca aprovechar este poder mediante un ritual que involucra el sacrificio de Eris.",
+    "type": "faction",
+    "title": "Colmena",
+    "description": "Una raza guerrera ligada a la Oscuridad y los Gusanos Divinos.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Scorn",
+    "value": "Los Scorn son Caídos resucitados y corrompidos por la Oscuridad, liderados por Fikrul, el Fanático. Son criaturas grotescas y violentas, impulsadas por la ira y la desesperación. A diferencia de los Caídos tradicionales, los Scorn no buscan el Éter, sino que se alimentan de la Oscuridad y la destrucción. Su presencia en el Arrecife se ha intensificado bajo el liderazgo de Fikrul, convirtiéndose en una seria amenaza para los Guardianes y las otras facciones.",
+    "type": "faction",
+    "title": "Scorn",
+    "description": "Caídos corrompidos por la Oscuridad, liderados por Fikrul.",
+    "useForCharacterCreation": false
+  },
+    {
+    "keys": "Taken, Poseídos",
+    "value": "Los Taken son seres corrompidos y esclavizados por la voluntad de la Oscuridad, originalmente bajo el control de Oryx. Son despojados de su voluntad y transformados en soldados leales a su amo, con habilidades distorsionadas y un comportamiento errático. Su presencia en la Tierra, junto con la Colmena, sugiere una mayor coordinación y una nueva amenaza. Aunque Oryx ha sido derrotado, la capacidad de la Oscuridad para crear Taken sigue siendo una seria preocupación.",
+    "type": "faction",
+    "title": "Taken/Poseídos",
+    "description": "Seres corrompidos y esclavizados por la Oscuridad.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Colapso, Viajero, Oscuridad, Edad Oscura, Extinción, Humanidad",
+    "value": "El Colapso fue un evento cataclísmico que marcó el fin de la Edad de Oro de la humanidad. La llegada de la Oscuridad y la partida del Viajero sumieron al sistema solar en el caos, diezmando a la humanidad y dando inicio a la Edad Oscura. Ciudades enteras fueron destruidas, y la civilización humana estuvo al borde de la extinción. Este evento traumático sigue teniendo un profundo impacto en la psique de los supervivientes y en la forma en que perciben la Luz y la Oscuridad.",
+    "type": "history",
+    "title": "El Colapso",
+    "description": "El evento que marcó el fin de la Edad de Oro y el inicio de la Edad Oscura.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Boca del Infierno, Eris Morn, Colmena, Perdición, Sacrificio, Oscuridad, Luna",
+    "value": "La Batalla de la Boca del Infierno fue una incursión desastrosa en la Luna, donde Eris Morn y su escuadra se enfrentaron a la Colmena en su propio terreno. La misión terminó en tragedia, con la pérdida de todos sus compañeros y la profunda corrupción de Eris por la Oscuridad. Este evento la marcó profundamente y la convirtió en una experta en la Colmena, aunque también la aisló del resto de la Vanguardia.",
+    "type": "history",
+    "title": "La Batalla de la Boca del Infierno",
+    "description": "La incursión fallida de Eris Morn en la Luna contra la Colmena.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Oryx, Rey de los Poseídos, Taken, Acorazado",
+    "value": "La Guerra contra Oryx fue un conflicto a gran escala que amenazó con sumir al sistema solar en la Oscuridad. Oryx, el Rey de los Poseídos, lideró a su ejército de Taken en una campaña de conquista y corrupción. Los Guardianes, liderados por la Vanguardia, se enfrentaron a él en múltiples batallas, culminando en su derrota final en el Acorazado. Sin embargo, la presencia de su Acorazado y los fragmentos de su alma siguen representando una amenaza latente.",
+    "type": "history",
+    "title": "La Guerra contra Oryx",
+    "description": "La campaña de los Guardianes contra el Rey de los Poseídos.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Testigo, Oscuridad, Viajero, Luz",
+    "value": "La derrota del Testigo marcó un punto de inflexión en la guerra entre la Luz y la Oscuridad. Tras una larga y ardua batalla, los Guardianes lograron vencer a esta entidad cósmica, poniendo fin a su plan de controlar el Viajero. Sin embargo, las consecuencias de esta batalla aún se sienten en todo el sistema, incluyendo la aparición de los Ecos de Luz y el resurgimiento de viejas amenazas.",
+    "type": "history",
+    "title": "La Derrota del Testigo",
+    "description": "La victoria de los Guardianes sobre el Testigo, con consecuencias imprevistas.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Thrall, Colmena",
+    "value": "Los Thrall son la infantería básica de la Colmena, criaturas débiles y frenéticas que atacan en grandes números. Se mueven con rapidez y agilidad, aunque son fáciles de derrotar individualmente. En el Acorazado, su presencia se ha intensificado debido al ritual de Astros, actuando como carne de cañón y protegiendo las áreas clave. Suelen aparecer en enjambres, tratando de abrumar a sus enemigos.",
+    "type": "creature",
+    "title": "Thrall",
+    "description": "Infantería básica de la Colmena, débiles pero numerosos.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Acolyte, Colmena",
+    "value": "Los Acolytes son hechiceros de la Colmena, capaces de manipular la Oscuridad para lanzar ataques a distancia y debilitar a sus enemigos. Suelen portar armas de energía oscura y pueden invocar glifos de poder. En el Acorazado, sirven como apoyo para las tropas de la Colmena y participan activamente en el ritual de Astros, utilizando su hechicería para potenciarlo. Su presencia cerca del altar del ritual es especialmente peligrosa.",
+    "type": "creature",
+    "title": "Acolyte",
+    "description": "Hechiceros de la Colmena, usan magia oscura.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Knight, Colmena",
+    "value": "Los Knights son guerreros de élite de la Colmena, protegidos por una pesada armadura y armados con espadas o escudos. Son fuertes y resistentes, capaces de resistir grandes cantidades de daño y asestar golpes poderosos. En el Acorazado, actúan como guardias de élite, protegiendo las áreas importantes y a los líderes de la Colmena. Su presencia cerca de Astros es una clara señal de peligro.",
+    "type": "creature",
+    "title": "Knight",
+    "description": "Guerreros de élite de la Colmena, fuertemente armados.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ogre, Colmena",
+    "value": "Los Ogros son monstruos gigantescos de la Colmena, impulsados por una fuerza bruta descomunal. Atacan con golpes poderosos y pueden lanzar proyectiles de energía oscura. Su presencia en el Acorazado genera caos y destrucción, arrasando con todo a su paso. Suelen ser utilizados como arietes para romper las defensas enemigas o como guardianes de áreas importantes. Su mera presencia infunde terror.",
+    "type": "creature",
+    "title": "Ogre",
+    "description": "Monstruos gigantescos de la Colmena, con una fuerza bruta inmensa.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shriekers, Colmena",
+    "value": "Los Shriekers son torretas orgánicas de la Colmena, capaces de lanzar proyectiles de energía oscura a largo alcance. Se encuentran anclados a las paredes o al techo, actuando como defensas estáticas. Su presencia en el Acorazado aumenta considerablemente el peligro de explorar sus pasillos. Suelen estar ubicados estratégicamente para proteger áreas importantes o emboscar a los intrusos. Su grito característico anuncia su ataque.",
+    "type": "creature",
+    "title": "Shrieker",
+    "description": "Torretas orgánicas de la Colmena, con ataques a distancia.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Psion, Taken",
+    "value": "Los Psion Taken son criaturas psíquicas poseídas por la Oscuridad. Utilizan sus poderes telequinéticos para manipular objetos, crear campos de fuerza y distorsionar la realidad. Su presencia en el Acorazado añade una dimensión psíquica a los encuentros, pudiendo desorientar y debilitar a los Guardianes. Suelen trabajar en conjunto con otras unidades Taken, coordinando ataques y creando trampas.",
+    "type": "creature",
+    "title": "Psion Taken",
+    "description": "Criaturas psíquicas poseídas, usan telequinesis.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hobgoblin, Vex",
+    "value": "Los Hobgoblins Vex son unidades de largo alcance con alta precisión. Suelen disparar ráfagas de energía solar desde sus rifles. En Nessus, su comportamiento se ve afectado por el Eco, presentando a veces patrones de movimiento erráticos o incluso desapareciendo y reapareciendo en otros lugares. Su presencia cerca de las estructuras Vex más importantes indica la cercanía a anomalías temporales.",
+    "type": "creature",
+    "title": "Hobgoblin",
+    "description": "Unidades Vex de largo alcance con alta precisión.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wretch, Scorn",
+    "value": "Los Wretch son la infantería básica de los Scorn, similares a los Thrall de la Colmena, pero aún más frenéticos y agresivos. Atacan en hordas, impulsados por la desesperación y el odio. En el Arrecife, su presencia es constante, representando una amenaza constante para los viajeros. Suelen portar armas improvisadas y atacan sin importarles su propia seguridad.",
+    "type": "creature",
+    "title": "Wretch",
+    "description": "Infantería básica de los Scorn, frenéticos y agresivos.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Espectros, Luz",
+    "value": "Los Espectros son pequeñas inteligencias artificiales creadas por el Viajero para resucitar a los Guardianes y guiarlos en su lucha contra la Oscuridad. Son compañeros constantes, proporcionando información, apoyo táctico y la capacidad de revivir a sus Guardianes. Cada Espectro tiene una personalidad única y un vínculo profundo con su Guardián. La pérdida de un Espectro es una herida profunda para un Guardián, como lo demuestra el estado de Zavala tras la pérdida del suyo.",
+    "type": "object",
+    "title": "Espectros",
+    "description": "Inteligencias artificiales que resucitan y guían a los Guardianes.",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Astros",
+    "title": "Astros - El Guardián Corrupto",
+    "type": "characterAbility",
+    "description": "Descripción detallada de las habilidades de Astros.",
+    "value": "Astros, un antiguo Guardián corrompido por la Oscuridad, combina habilidades de la Luz retorcidas con el poder de la Colmena y los Taken. Sus habilidades principales incluyen:\n\n*   **Explosiones de Oscuridad:** Canaliza energía oscura para crear explosiones concentradas que infligen un gran daño.\n*   **Drenaje de Luz:** Invoca sombras que se adhieren a sus enemigos, drenando su Luz y debilitándolos.\n*   **Teletransporte Oscuro:** Se teletransporta a través de portales de oscuridad, permitiéndole moverse rápidamente por el campo de batalla.\n*   **Invocación de Taken Corruptos:** Puede invocar versiones debilitadas de Taken, como Thrall, Acolytes y Knights, aunque su control sobre ellos es limitado en comparación con Oryx.\n*   **Amplificación en el Acorazado:** Dentro del Acorazado, las energías residuales de Oryx amplifican sus poderes, aumentando el alcance y la potencia de sus habilidades, especialmente su capacidad de invocar Taken.\n*   **Ritual de Ascenso:** Astros está llevando a cabo un ritual para absorber el poder restante de Oryx, lo que le otorgaría un poder inmenso y lo convertiría en una amenaza aún mayor."
+  }
+]
