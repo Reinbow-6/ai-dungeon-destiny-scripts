@@ -1,33 +1,46 @@
-# AI Dungeon Destiny Scripts
+# AI Dungeon Destiny: Ecos de la Oscuridad
 
-Scripts para implementar mecánicas de juego de Destiny en AI Dungeon, incluyendo inventario, viaje rápido y uso del Espectro.
+Scripts para mejorar la experiencia narrativa de Destiny en AI Dungeon y la interacción multijugador.
 
 ## Instrucciones de Uso
 
-Para utilizar estos scripts, cópialos y pégalos en el editor de scripts de tu escenario de AI Dungeon.
+Para utilizar estos scripts, cópialos y pégalos en el editor de scripts de tu escenario de AI Dungeon. Este script está diseñado para funcionar en conjunto con las Story Cards del escenario "Ecos de la Oscuridad".
 
 ### Comandos Disponibles:
 
-*   `> Guardar [objeto]`: Añade un objeto al inventario.
-*   `> Revisar inventario`: Muestra el contenido del inventario.
-*   `> Usar [objeto] (en/con/para) [objetivo]`: Usa un objeto del inventario.
-*   `> Viajar a [localización]`: Viaja a una ubicación específica.
-*   `> Escanear [objeto/entorno]`: El Espectro escanea el objetivo y la IA genera una descripción.
-*   `> Comunicar (con [personaje])`: El Espectro intenta comunicarse con un personaje (o la Vanguardia por defecto).
-*   `> Analizar [enemigo]`: Busca información sobre un enemigo en las Story Cards.
+Este escenario se centra en la narrativa y la interacción, utilizando comandos para acciones clave y especialmente optimizado para el multijugador.
 
-### Autor
+**Comandos Multijugador:**
 
-Reinbow / https://github.com/Reinbow-6
+*   `>New player [Nombre del Jugador] [Descripción breve del personaje]`: Define un nuevo jugador.
+*   `>[Nombre del Jugador] [acción a realizar]`: Realiza una acción en el juego.
 
-### Licencia
+    *   **Ejemplo:** `>Rein dispara a los Acólitos con su rifle de fusión.`
+    *   **Ejemplo:** `>Ana se cubre detrás de un contenedor.`
 
-MIT License
+**Ejemplo de Interacción Multijugador:**
 
-Copyright (c) 2024 Reinbow
+1.  Jugador 1 escribe: `>New player Rein Titán estoico.`
+2.  Jugador 2 escribe: `>New player Ana Cazadora sigilosa.`
+3.  La IA genera la introducción del juego.
+4.  Jugador 1 escribe: `>Rein examina la consola.`
+5.  La IA describe la consola, teniendo en cuenta la presencia de Rein y Ana.
+6.  Jugador 2 escribe: `>Ana se acerca a Rein.`
+7.  La IA describe la interacción entre Ana y Rein.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## Notas Adicionales:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*   Este script funciona mejor en Story Mode.
+*   Asegúrate de que los nombres de los jugadores sean consistentes para evitar confusiones en la IA.
+*   Este script se centra en mejorar la experiencia narrativa y la interacción multijugador, por lo que las mecánicas de combate son simplificadas y se basan principalmente en la descripción narrativa de la IA.
+*   Se recomienda usar Story Cards detalladas para personajes, lugares y objetos para enriquecer la experiencia.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Créditos:
+
+*   Inspirado en el juego de rol 'Dungeons & Destiny' de 'Velvet Fang'.
+
+## Versión:
+
+0.2v (Mejoras en multijugador y enfoque narrativo)
+
+(Feedback & Suggestions are always welcome.)
